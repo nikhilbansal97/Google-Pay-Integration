@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">Google Pay Integration</string>
+  <string name="googlepay_button_content_description">Google Pay</string>
+  <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
 </resources>
